@@ -14,6 +14,7 @@ npm-debug.log*
 *.apk
 *.keystore
 
+__MACOSX
 .idea/
 .sass-cache/
 .tmp/
