@@ -25,7 +25,6 @@ app/build/tmp
 build/
 coverage/
 dist/
-gradle/
 graphview/
 node_modules/
 tmp/
