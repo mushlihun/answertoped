@@ -15,6 +15,7 @@ npm-debug.log*
 *.keystore
 
 __MACOSX
+.gradle
 .idea/
 .sass-cache/
 .tmp/
